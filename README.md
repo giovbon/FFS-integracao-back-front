@@ -22,7 +22,7 @@ python run.py
 
 # Front
 
-Front em React, utiliza Axios (veja `/frontend/src/api.js`) para fazer a integração com o back, fazendo as requisições à API.
+Front em React (Preact), utiliza Axios (veja `/frontend/src/api.js`) para fazer a integração com o back, fazendo as requisições à API.
 
 Para rodar o front, em outro terminal:
 ```
